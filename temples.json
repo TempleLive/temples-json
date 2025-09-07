@@ -1,7 +1,32 @@
 [
-  { "id": 1, "name": "Shree Govind Devji (Jaipur, Rajasthan)", "url": "https://www.youtube.com/watch?v=s00aiUDUF9c" },
-  { "id": 2, "name": "Shree Somnath (Somnath, Gujarat)", "url": "https://www.youtube.com/watch?v=kTbl-wQOmfI" },
-  { "id": 3, "name": "Shree Siddhivinayak (Mumbai)", "url": "https://www.youtube.com/watch?v=XRs3tNsu3CQ" },
-  { "id": 4, "name": "Shree Jagannath (Puri, Odisha)", "url": "https://www.youtube.com/watch?v=QEm7MwVdrxc" },
-  { "id": 5, "name": "Shri Dwarkadhish Mandir (Dwarka, Gujarat)", "url": "https://www.youtube.com/watch?v=BperpfwbCZo" }
+  {
+    "id": 1,
+    "name": "Shree Govind Devji (Jaipur)",
+    "url": "https://www.youtube.com/watch?v=s00aiUDUF9c",
+    "imageUrl": "https://images.unsplash.com/photo-1529257414773-1960b4f2e1d8?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Shree Somnath (Somnath, Gujarat)",
+    "url": "https://www.youtube.com/watch?v=kTbl-wQOmfI",
+    "imageUrl": "https://images.unsplash.com/photo-1509566348650-6b25f2dc2d8a?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Shree Siddhivinayak (Mumbai)",
+    "url": "https://www.youtube.com/watch?v=XRs3tNsu3CQ",
+    "imageUrl": "https://images.unsplash.com/photo-1549887534-5c9b9f5d4a0f?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Shree Jagannath (Puri, Odisha)",
+    "url": "https://www.youtube.com/watch?v=QEm7MwVdrxc",
+    "imageUrl": "https://images.unsplash.com/photo-1549880338-65ddcdfd017b?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 5,
+    "name": "Shri Dwarkadhish Mandir (Dwarka, Gujarat)",
+    "url": "https://www.youtube.com/watch?v=BperpfwbCZo",
+    "imageUrl": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?q=80&w=1200&auto=format&fit=crop"
+  }
 ]
