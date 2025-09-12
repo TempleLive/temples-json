@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Bhajan Marg (Pujya Shri Hit Premanand Govind Sharan Maharaj Ji)",
+    "description": "Bhajan Marg is the official authorized YouTube Channel of Pujya Shri Hit Premanand Govind Sharan Maharaj Ji.",
+    "link": "https://www.youtube.com/@BhajanMarg",
+    "iconUrl": "https://raw.githubusercontent.com/TempleLive/temples-json/refs/heads/main/images/channels/premanandgovindsharanmaharajji.png"
+  },
+  {
+    "id": 2,
+    "name": "BhaktiPath (Pujya Acharya Indresh Upadhyay Ji)",
+    "description": "This is the Official Channel of Pujya Acharya Indresh Upadhyay Ji, son of Bhagwat Bhaskar Param Pujya Shri Krishna Chandra Shastri (Thakur Ji) Maharaj.",
+    "link": "https://www.youtube.com/@BhaktiPath",
+    "iconUrl": "https://raw.githubusercontent.com/TempleLive/temples-json/refs/heads/main/images/channels/indreshupadhyayji.png"
+  },
+  {
+    "id": 3,
+    "name": "Shri Rajendra Das ji Maharaj Malook Peeth",
+    "description": "Official channel of Shrimad Jagadguru Dwaracharya Shri Rajendra Das Ji Maharaj, Mahant of Shri Agrapeeth (Raiwasa) and Shri Malook Peeth Ashram of Vrindavan.",
+    "link": "https://www.youtube.com/@RajendraDasjiMaharaj",
+    "iconUrl": "https://raw.githubusercontent.com/TempleLive/temples-json/refs/heads/main/images/channels/rajendradasji.jpg"
+  }
+]
