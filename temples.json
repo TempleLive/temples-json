@@ -28,5 +28,11 @@
     "name": "Shri Dwarkadhish Mandir (Dwarka, Gujarat)",
     "url": "https://www.youtube.com/watch?v=BperpfwbCZo",
     "imageUrl": "https://raw.githubusercontent.com/TempleLive/temples-json/main/images/dwarkadhish.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Shree Mahakaleshwar Temple, (Ujjain MP)",
+    "url": "https://www.youtube.com/watch?v=UM2cSgvwaek",
+    "imageUrl": "https://raw.githubusercontent.com/TempleLive/temples-json/refs/heads/main/images/temples/mahakaleshwar.jpeg"
   }
 ]
